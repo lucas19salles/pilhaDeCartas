@@ -33,5 +33,6 @@ do {
 
     default:
       alert("Opção inválida!");
+      break;
   }
-} while (option !== 3);
+} while (option !== "3");
